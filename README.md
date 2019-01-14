@@ -20,7 +20,7 @@ Written by [Yogesh](https://twitter.com/igoy_k).
 
 ## Read more
 
-You can read more about it in [my Medium article](https://medium.com/@yogeshkumarr/).
+You can read more about it in [my Medium article](https://medium.com/@yogeshkumarr/production-ready-electron-app-using-react-and-parcel-web-bundler-74dcda63f148).
 
 ## License
 
