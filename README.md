@@ -4,7 +4,7 @@ Bolierplate code for building multi-platform, production ready desktop apps usin
 
 Also contains CSS styling using [Semantic-UI-CSS](https://github.com/Semantic-Org/Semantic-UI-CSS)
 
-Written by [Yogesh](https://twitter.com/igoy_k).
+Written by [Yogesh](https://ykumar.in/).
 
 ## Scripts
 
