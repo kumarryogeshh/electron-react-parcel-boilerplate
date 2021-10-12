@@ -71,7 +71,7 @@
     "bundlesize": "^0.18.0",
     "concurrently": "^5.0.2",
     "cross-env": "5.2.0",
-    "electron": "9.4.0",
+    "electron": "11.5.0",
     "electron-builder": "20.38.4",
     "kind-of": "^6.0.3",
     "parcel-bundler": "^1.12.4",
